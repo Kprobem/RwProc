@@ -42,6 +42,8 @@
 #include <linux/sched/task.h>
 #include <linux/sched/mm.h>
 #include <linux/sched/signal.h>
+#include <linux/mmap_lock.h>
+#include <linux/mm.h>
 #endif
 
 
